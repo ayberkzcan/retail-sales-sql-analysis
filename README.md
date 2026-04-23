@@ -30,29 +30,35 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 ### 📈 Revenue Trend
 - Stable upward growth over time
 - Strong seasonality (Q4 peaks every year)
+
 👉 Revenue growth does not always lead to higher profit
 
 ### 💸 Profitability & Discounts
 - 0–10% discount → positive profit
 - 20–30% discount → reduced margins
 - 30%+ discount → frequent losses
+
 👉 Profitability is strongly dependent on discount strategy
 
 ### 🛒 Product Concentration (Pareto Analysis)
 - ~419 products generate 80% of total revenue
+
 👉 Revenue is driven by a small subset of products
 
 ### 📉 Revenue Concentration (Gini = 0.73)
+
 👉 High inequality in revenue distribution across products
 
 ### 👥 Customer Concentration
 - Small group of customers generates majority of revenue
+
 👉 High dependency on top customers
 
 ### 📦 Operations (Shipping)
 - Average shipping time: ~3.96 days
 - Minor regional differences
 - Overall stable logistics performance
+
 👉 Logistics is not a major bottleneck
 
 ## 💡 Business Recommendations
@@ -66,6 +72,7 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 - Profitability is inconsistent 💸  
 - Business is highly concentrated ⚠️  
 - Operations are stable 📦  
+
 👉 Core issue: imbalance between growth and profitability structure
 
 ## 🚀 Impact
