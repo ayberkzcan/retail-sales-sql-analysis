@@ -76,6 +76,9 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 - Diversify customer base to reduce concentration risk
 - Maintain current logistics efficiency
 
+<img width="452" height="122" alt="image" src="https://github.com/user-attachments/assets/85feba28-ccf7-466b-bb7b-7b5e5703f8ce" />
+
+
 ## 🧠 Final Conclusion
 - Revenue is growing steadily 📈  
 - Profitability is inconsistent 💸  
