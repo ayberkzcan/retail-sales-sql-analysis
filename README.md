@@ -38,6 +38,9 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 - 20–30% discount → reduced margins
 - 30%+ discount → frequent losses
 
+<img width="203" height="321" alt="image" src="https://github.com/user-attachments/assets/9d93dc7d-4183-4ff1-981c-7444ba8d7281" />
+
+
 👉 Profitability is strongly dependent on discount strategy
 
 ### 🛒 Product Concentration (Pareto Analysis)
