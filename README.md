@@ -25,6 +25,9 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 - Units Sold: 37,873  
 - Avg Shipping Time: ~3.96 days  
 
+<img width="244" height="120" alt="image" src="https://github.com/user-attachments/assets/7e98626e-ee00-4554-8fa9-9829a41d15c7" />
+
+
 ## 📊 Key Insights
 
 ### 📈 Revenue Trend
@@ -61,6 +64,9 @@ Key finding: Revenue grows steadily, but profitability is highly sensitive to di
 - Average shipping time: ~3.96 days
 - Minor regional differences
 - Overall stable logistics performance
+
+<img width="257" height="152" alt="image" src="https://github.com/user-attachments/assets/ff41f88e-e054-4fef-8382-bd2733c3566e" />
+
 
 👉 Logistics is not a major bottleneck
 
